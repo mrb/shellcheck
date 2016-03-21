@@ -1,0 +1,11 @@
+---
+engines:
+  fixme:
+    enabled: true
+  hlint:
+    enabled: true
+ratings:
+  paths:
+    - "**.hs"
+exclude_paths:
+- test/
